@@ -27,4 +27,4 @@ Included geographic analysis to show country-wise contributions to Netflix conte
 Designed a clean, user-friendly dashboard optimized for insights and decision-making.
 
 6. Screenshots
-   Dashboard: 
+   Dashboard: https://github.com/Mohan-359/netflix_project_report/blob/main/dashboard_image.jpg
