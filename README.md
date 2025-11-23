@@ -13,26 +13,31 @@
 4. Teck Stack :
    
    Power BI Desktop – Data modeling, DAX, dashboard creation
+   
    Power Query – Data cleaning and transformation
+   
    DAX (Data Analysis Expressions) – Calculations and measures
+   
    Microsoft Excel / CSV – Dataset source
+   
    Google Colab - Notebook Environment
 
 4. Data Source :
    
-It contains information about titles available on Netflix, including type, director, cast, country, release year, rating, duration, genres, and date added to the platform.
-Source: Kaggle – “Netflix Movies and TV Shows Dataset”
-Format: CSV
-Rows: 8807
-Columns: 15
+   It contains information about titles available on Netflix, including type, director, cast, country, release year, rating, duration, genres, and date added to
+   the platform.
+   Source: Kaggle – “Netflix Movies and TV Shows Dataset”
+   Format: CSV
+   Rows: 8807
+   Columns: 15
 
-5. Highlights :
+6. Highlights :
     
-Built an interactive Power BI dashboard to analyze Netflix’s global content library.
-Performed end-to-end data cleaning, transformation, and modeling using Power Query and DAX.
-Visualized key metrics such as content type distribution, genre popularity, ratings, top countries, and yearly release trends.
-Included geographic analysis to show country-wise contributions to Netflix content.
-Designed a clean, user-friendly dashboard optimized for insights and decision-making.
+   Built an interactive Power BI dashboard to analyze Netflix’s global content library.
+   Performed end-to-end data cleaning, transformation, and modeling using Power Query and DAX.
+   Visualized key metrics such as content type distribution, genre popularity, ratings, top countries, and yearly release trends.
+   Included geographic analysis to show country-wise contributions to Netflix content.
+   Designed a clean, user-friendly dashboard optimized for insights and decision-making.
 
 6. Screenshot :
    
