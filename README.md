@@ -5,15 +5,18 @@
    
 2. Short Descrition :
    
-This Power BI project transforms the Netflix Movies and TV Shows dataset into an interactive analytics dashboard that uncovers key insights about Netflix’s global  content library. Through data cleaning, modeling, DAX measures, and dynamic visualizations, the dashboard highlights trends in content types, genres, ratings, countries, and yearly releases. This end-to-end project demonstrates strong business intelligence, data analysis, and storytelling skills using Power BI.
+   This Power BI project transforms the Netflix Movies and TV Shows dataset into an interactive analytics dashboard that uncovers key insights about Netflix’s
+   global  content library. Through data cleaning, modeling, DAX measures, and dynamic visualizations, the dashboard highlights trends in content types, genres,
+   ratings, countries, and yearly releases. This end-to-end project demonstrates strong business intelligence, data analysis, and storytelling skills using Power
+   BI.
 
-3. Teck Stack :
+4. Teck Stack :
    
-Power BI Desktop – Data modeling, DAX, dashboard creation
-Power Query – Data cleaning and transformation
-DAX (Data Analysis Expressions) – Calculations and measures
-Microsoft Excel / CSV – Dataset source
-Google Colab - Notebook Environment
+   Power BI Desktop – Data modeling, DAX, dashboard creation
+   Power Query – Data cleaning and transformation
+   DAX (Data Analysis Expressions) – Calculations and measures
+   Microsoft Excel / CSV – Dataset source
+   Google Colab - Notebook Environment
 
 4. Data Source :
    
